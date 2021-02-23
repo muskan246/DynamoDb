@@ -1,0 +1,17 @@
+POST https://mv8y4ermid.execute-api.us-east-1.amazonaws.com/dev/v1/kitten
+
+
+{
+    "name": "dinky",
+    "age": 20
+}
+
+####
+GET https://mv8y4ermid.execute-api.us-east-1.amazonaws.com/dev/v1/kitten
+
+#######
+PUT https://mv8y4ermid.execute-api.us-east-1.amazonaws.com/dev/v1/kitten/muskan
+
+{
+    "age":21
+}
